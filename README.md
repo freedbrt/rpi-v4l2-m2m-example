@@ -10,7 +10,7 @@ The application shows incorrect work of the bcm2835-codec encoder on some resolu
 ```
 
 # Testing
-  For play the raw h264 frames for examples you can use ffmpeg
+  For play the raw h264 frames you can use ffmpeg
   ```
-  ffmpeg -f h264 input.h264
-```
+  ffplay -f h264 input.h264
+  ```

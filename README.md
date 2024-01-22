@@ -1,7 +1,7 @@
 # rpi-v4l2-m2m-example
 Raspberry pi v4l2 m2m encoder example
 
-The application shows incorrect work of the bcm2835-codec encoder on some resolutions. 
+The application shows incorrect work of the bcm2835-codec encoder on some resolutions. Discussion here - https://forums.raspberrypi.com/viewtopic.php?p=2183718
 
 # Build steps
 ```
